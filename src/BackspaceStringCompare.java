@@ -48,7 +48,7 @@ public class BackspaceStringCompare {
         System.out.print("please input T : " );
         String T = sc.next();
         StringBuilder sb = new StringBuilder();
-        sb.le
+
 
         System.out.println(backspacecompare(S, T));
     }
