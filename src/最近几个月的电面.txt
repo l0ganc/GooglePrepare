@@ -865,4 +865,33 @@ d1    d2    d3
 
 
 第二道题，有一个字符串的Google pattern "google"，每一个字符可以重复多次或者不出现，比如ggggoogle，googlllle，l，但是相对顺序不能改变，考虑所有的input string都是valid，问里面有多少个l。
-一开始没有理解清楚题目意思，我问是不是要先判断input是否valid，他给我说不用，全部都是valid，我说那我的直觉就是扫一遍，然后数有多少个，然后问了时空复杂度，问可以更好吗，问到这儿我差不多明白他是想让我二分了··· 我说那可以二分，用两次二分找到第一个l出现的位置和最后一个l出现的位置，然后相减。他说可以，你写一下呗。写了，一边写一边给他说啥意思，然后他给了我6，7个test case说你跑一下，都跑过以后，他问你有什么想问我的吗··· 就又唠了一下。
+一开始没有理解清楚题目意思，我问是不是要先判断input是否valid，他给我说不用，全部都是valid，我说那我的直觉就是扫一遍，然后数有多少个，
+然后问了时空复杂度，问可以更好吗，问到这儿我差不多明白他是想让我二分了··· 我说那可以二分，用两次二分找到第一个l出现的位置和最后一个l出现的位置，然后相减。
+他说可以，你写一下呗。写了，一边写一边给他说啥意思，然后他给了我6，7个test case说你跑一下，都跑过以后，他问你有什么想问我的吗··· 就又唠了一下。
+
+52、LC767 电面
+Given a list of characters, return a list of the same characters where no two consecutive characters are the same. The original list should remain unchanged.
+
+['a', 'a', 'b']  → ['a', 'b', 'a']
+['a', 'a', 'b', 'b'] → ['a', 'b', 'a', 'b']  (or ['b', 'a', 'b', 'a'])
+[‘a’,’a’,’a’,’b’,’b’] -> [a,b,a,b,a]
+[a,a,a,b] ->[a,b,a,a]
+
+
+53、电面
+part1: valid balanced parentheses -> stack
+followup：不用stack怎么做 -> int count store the number of open parentheses, 遇到open++，close --， if ever < 0 return false
+part2: given the number of open and close parentheses as N. generate all combination of valid balanced parentheses string as set<string>
+本来是只用说思路的，时间不够了，我脱口而出用dfs generate 所有combination然后用第一个function 看是否valid，大叔说看起来很straightforward嘛你想写写吗？（我能拒绝吗？当然是写了）
+真的很straightforward，大概解释了下写完了，
+followup：dfs要是我给你一个超长string。。。答曰用bfs吧用queue。。。那头好像很开心
+
+
+54、电面（二叉索引树，lc308）
+给一个NxN的matrix 要求实现两个函数, 一个是update (x,y) 坐标上的值. 一个是求给定两个坐标组成矩阵之间所有数的sum.
+follow up是如果求和函数频繁使用, matrix特别大怎么优化.
+
+55、电面
+店面1：q1: string有没有重复character?
+q2:  given a B-tree, find all leaves.
+店面2:  given the grid of go, check whether  the specified spot is survived .  The strategy is the same as GO game. "活眼"
