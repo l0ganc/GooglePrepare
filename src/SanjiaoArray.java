@@ -14,13 +14,19 @@ public class SanjiaoArray {
         while (i < arr.length) {
             if (arr[i] < arr[i + 1]) {
                 i++;
+            } else if (arr[i] == arr[i + 1]) {
+                return false;
+            } else {
+                break;
             }
         }
 
         // current i mean the max value's index
-        while (i < arr.length) {
+        while (i < arr.length - 1) {
             if (arr[i] > arr[i + 1]) {
                 i++;
+            } else {
+                return false;
             }
         }
         return true;

@@ -876,6 +876,7 @@ Given a list of characters, return a list of the same characters where no two co
 ['a', 'a', 'b', 'b'] → ['a', 'b', 'a', 'b']  (or ['b', 'a', 'b', 'a'])
 [‘a’,’a’,’a’,’b’,’b’] -> [a,b,a,b,a]
 [a,a,a,b] ->[a,b,a,a]
+用贪心法做
 
 
 53、电面
@@ -895,3 +896,34 @@ follow up是如果求和函数频繁使用, matrix特别大怎么优化.
 店面1：q1: string有没有重复character?
 q2:  given a B-tree, find all leaves.
 店面2:  given the grid of go, check whether  the specified spot is survived .  The strategy is the same as GO game. "活眼"
+
+
+56、电面
+
+10min简历和项目
+1. 字符串是不是 edit exits，两个字符串s1, s2，求s2是不是s1插入一个phrases变化得到的。
+s1 = "she is running", s2 = "she is running in the park" -> True
+s1 = "she likes running ", s2 = "she really likes running in the park"-> False
+s1 = "", s2 ="I love Google" -> True
+s1 = "she is running", s2 = "she is walking" -> False
+第一个warm up 写了15min，有点久了第二题没时间了。
+
+2. 高频人车问题，
+矩阵里有自行车和人，给每个人分配一辆车（没有tie）,要求给每个人分配最短的距离的自行车！
+我只提了BFS，简单写了一下，
+
+
+57、电面
+1. 给三个正整数a, b, c判断其能否构成一个合法的日期：年月日（abc顺序可变）
+bool isValid(int a, int b, int c)
+
+2.力扣肆拾壹。不同之处在于寻找最小的非负数。
+
+58、电面
+ 面试是个白人小哥哥，输入两个字符串A，B。（B中字符串无重复），问B是否是A的子序列？
+    A = vcxzxcv，B = zcv, return True
+    A = vcxzxcv, B = zcvx, return False
+. From 1point 3acres bbs
+
+    follow up~
+    如果有多个位置可以生成子序列，询问最短长度？ 比如查询vv，返回7
