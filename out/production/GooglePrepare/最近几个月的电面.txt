@@ -927,3 +927,31 @@ bool isValid(int a, int b, int c)
 
     follow up~
     如果有多个位置可以生成子序列，询问最短长度？ 比如查询vv，返回7
+
+59、电面
+给一个target word 和 a list of words, 看 target 能否被 words 组成
+input: List[word]
+output: Bool
+
+example:
+can_build_target(['a', 'b', 'c'], bc) => True
+can_build_target(['ac', 'd', 'e'], acf) => False
+
+LC Word Break 139
+class solution {
+    public boolean wordBreak(String s, List<String> wordDict) {
+        Set<String> set = new HashSet<>(wordDict);
+        boolean[] dp = new boolean[s.length() + 1];
+        dp[0] = 0;
+
+        for (int i = 1; i <= s.length(); i++) {
+            for (int j = 0; j < i; j++) {
+                if (dp[j] && set.contains(s.substring(j, i))) {
+                    dp[j] = true;
+                    break;
+                }
+            }
+        }
+        return dp[s.length()];
+    }
+}
