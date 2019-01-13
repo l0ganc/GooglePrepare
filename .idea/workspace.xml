@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/CokeMachine18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/NTree17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/TreeIsomorphismProblem16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +50,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="1404">
+              <caret line="52" column="45" lean-forward="true" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+              <folding>
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +166,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547419249684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547423512202" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -328,18 +327,18 @@
       <workItem from="1545186661282" duration="598000" />
       <workItem from="1545244589151" duration="1322000" />
       <workItem from="1545319017844" duration="400000" />
-      <workItem from="1547405093600" duration="3447000" />
+      <workItem from="1547405093600" duration="4937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73831000" />
+    <option name="totallyTimeSpent" value="75321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22283272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14835165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -355,7 +354,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31938776" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31938776" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32772276" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -822,8 +821,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="1404">
+          <caret line="52" column="45" lean-forward="true" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding>
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
