@@ -2,61 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SportNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordExtension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InorderSuccessorInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringGridTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GooglePrepare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GooglePrepare.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/BackspaceStringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/BackspaceStringCompare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/CalculateNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/CalculateNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/CelebrityProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/CelebrityProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/CollatzConjecture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/CollatzConjecture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/DistinctSubSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/DistinctSubSeq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/DivideAndConquerToFindSecondLargest$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/DivideAndConquerToFindSecondLargest$Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/DivideAndConquerToFindSecondLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/DivideAndConquerToFindSecondLargest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/EvaluateReversePolishNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/EvaluateReversePolishNotation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/ExangeChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/ExangeChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/FindCombinationsOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/FindCombinationsOfString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/FindNearestBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/FindNearestBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/IntegerToIp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/IntegerToIp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/IntersectionOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/IntersectionOfTwoArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/JudgeDuplicateChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/JudgeDuplicateChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/MaxDifferenceInBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/MaxDifferenceInBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/MaxDifferenceInBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/MaxDifferenceInBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/MinFetchMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/MinFetchMath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/MinimumRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/MinimumRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/RecorganizeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/RecorganizeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/SalaryControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/SalaryControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/SanjiaoArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/SanjiaoArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/SearchValueInAStringOfSortedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/SearchValueInAStringOfSortedInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/SkipSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/SkipSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/StringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/StringCompare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/最近几个月的电面.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/最近几个月的电面.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackspaceStringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackspaceStringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculateNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculateNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CelebrityProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollatzConjecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollatzConjecture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DistinctSubSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DistinctSubSeq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideAndConquerToFindSecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideAndConquerToFindSecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/WordExtension.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/WordExtension.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExangeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExangeChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindCombinationsOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindCombinationsOfString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindNearestBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindNearestBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntegerToIp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerToIp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JudgeDuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JudgeDuplicateChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxDifferenceInBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxDifferenceInBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinFetchMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinFetchMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecorganizeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecorganizeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalaryControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalaryControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SanjiaoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SanjiaoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchValueInAStringOfSortedInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchValueInAStringOfSortedInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkipSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkipSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/最近几个月的电面.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/最近几个月的电面.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,44 +24,48 @@
     <session id="-1740511738">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="3" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="9电面" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="27" />
+          <entry key="java" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="77" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="9电面" value="565" />
-          <entry key="java" value="12120" />
+          <entry key="java" value="15569" />
           <entry key="txt" value="3526" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12120" />
+          <entry key="JAVA" value="15569" />
           <entry key="PLAIN_TEXT" value="4091" />
         </counts>
       </usages-collector>
@@ -119,28 +78,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SportNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/MinimumRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxDifferenceInBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringCompare.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="450">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -148,17 +89,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RecorganizeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="510">
+              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SanjiaoArray.java">
+        <entry file="file://$PROJECT_DIR$/src/StringGridTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -166,33 +107,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WordExtension.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JudgeDuplicateChar.java">
+        <entry file="file://$PROJECT_DIR$/src/SalaryControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="270">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/src/SanjiaoArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9120">
-              <caret line="659" selection-start-line="659" selection-end-line="659" />
-              <folding>
-                <element signature="e#22786#22787#0" expanded="true" />
-                <element signature="e#22821#22822#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SearchValueInAStringOfSortedInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -201,16 +144,25 @@
         <entry file="file://$PROJECT_DIR$/src/SkipSpace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BackspaceStringCompare.java">
+        <entry file="file://$PROJECT_DIR$/src/SportNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="80" column="42" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+            <state relative-caret-position="390">
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringCompare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -239,7 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindCombinationsOfString.java" />
         <option value="$PROJECT_DIR$/src/BackspaceStringCompare.java" />
         <option value="$PROJECT_DIR$/src/SkipSpace.java" />
         <option value="$PROJECT_DIR$/src/SalaryControl.java" />
@@ -260,6 +211,14 @@
         <option value="$PROJECT_DIR$/src/最近几个月的电面.txt" />
         <option value="$PROJECT_DIR$/src/SportNumber.java" />
         <option value="$PROJECT_DIR$/src/WordExtension.java" />
+        <option value="$PROJECT_DIR$/src/ExangeChange.java" />
+        <option value="$PROJECT_DIR$/src/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/IsExist.java" />
+        <option value="$PROJECT_DIR$/src/MinimumMatch.java" />
+        <option value="$PROJECT_DIR$/src/InorderSuccessorInBST.java" />
+        <option value="$PROJECT_DIR$/src/ArrayCopyTest.java" />
+        <option value="$PROJECT_DIR$/src/StringGridTest.java" />
+        <option value="$PROJECT_DIR$/src/FindCombinationsOfString.java" />
       </list>
     </option>
   </component>
@@ -271,8 +230,8 @@
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="964" />
+    <option name="width" value="1280" />
+    <option name="height" value="720" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -282,8 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,16 +258,25 @@
               <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InorderSuccessorInBST.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543447515990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545293181234" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -332,12 +298,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.WordExtension">
-    <configuration default="true" type="Applet" factoryName="小应用程序">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -352,23 +312,8 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="远程">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration name="IntegerToIp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntegerToIp" />
-      <module name="GooglePrepare" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecorganizeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecorganizeString" />
-      <module name="GooglePrepare" />
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -380,8 +325,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SkipSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SkipSpace" />
+      <module name="GooglePrepare" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SportNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SportNumber" />
+      <module name="GooglePrepare" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCompare" />
       <module name="GooglePrepare" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -400,7 +359,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -408,29 +367,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.SanjiaoArray" />
-      <item itemvalue="Application.RecorganizeString" />
-      <item itemvalue="Application.IntegerToIp" />
+      <item itemvalue="Application.SkipSpace" />
       <item itemvalue="Application.SportNumber" />
+      <item itemvalue="Application.StringCompare" />
       <item itemvalue="Application.WordExtension" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.WordExtension" />
-        <item itemvalue="Application.SanjiaoArray" />
+        <item itemvalue="Application.StringCompare" />
         <item itemvalue="Application.SportNumber" />
-        <item itemvalue="Application.IntegerToIp" />
-        <item itemvalue="Application.RecorganizeString" />
+        <item itemvalue="Application.SkipSpace" />
+        <item itemvalue="Application.SanjiaoArray" />
       </list>
     </recent_temporary>
   </component>
@@ -458,18 +417,36 @@
       <workItem from="1542599983045" duration="428000" />
       <workItem from="1542643050843" duration="586000" />
       <workItem from="1542689984128" duration="280000" />
-      <workItem from="1543445953760" duration="1396000" />
+      <workItem from="1543445953760" duration="1998000" />
+      <workItem from="1543516516618" duration="135000" />
+      <workItem from="1543801001208" duration="1193000" />
+      <workItem from="1543872750478" duration="729000" />
+      <workItem from="1544038141428" duration="216000" />
+      <workItem from="1544231480959" duration="293000" />
+      <workItem from="1544241986553" duration="597000" />
+      <workItem from="1544379665567" duration="1139000" />
+      <workItem from="1544490375836" duration="1900000" />
+      <workItem from="1544513244416" duration="597000" />
+      <workItem from="1544552726762" duration="408000" />
+      <workItem from="1544688582941" duration="2000" />
+      <workItem from="1544837585399" duration="3091000" />
+      <workItem from="1544914379645" duration="598000" />
+      <workItem from="1544918909837" duration="3209000" />
+      <workItem from="1545153880199" duration="485000" />
+      <workItem from="1545186661282" duration="598000" />
+      <workItem from="1545244589151" duration="1322000" />
+      <workItem from="1545319017844" duration="400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52870000" />
+    <option name="totallyTimeSpent" value="70384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15689866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22039072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -479,14 +456,14 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27142859" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.39387757" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16122448" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32772276" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -572,101 +549,120 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HashMapTest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExangeChange.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CollatzConjecture.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindCombinationsOfString.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArrays.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchValueInAStringOfSortedInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindNearestBike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CelebrityProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinFetchMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EvaluateReversePolishNotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DivideAndConquerToFindSecondLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CalculateNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinimumRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GooglePrepare.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DistinctSubSeq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SalaryControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntegerToIp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/最近几个月的电面.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -675,56 +671,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SportNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxDifferenceInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecorganizeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JudgeDuplicateChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9120">
-          <caret line="659" selection-start-line="659" selection-end-line="659" />
+        <state relative-caret-position="9060">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
           <folding>
             <element signature="e#22786#22787#0" expanded="true" />
             <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SkipSpace.java">
+    <entry file="file://$PROJECT_DIR$/src/ArrayCopyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -735,20 +698,205 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SanjiaoArray.java">
+    <entry file="file://$PROJECT_DIR$/src/CalculateNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CelebrityProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CollatzConjecture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="79" column="16" lean-forward="true" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DistinctSubSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivideAndConquerToFindSecondLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvaluateReversePolishNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExangeChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="87" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindCombinationsOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindNearestBike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="18" column="73" lean-forward="true" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InorderSuccessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-763">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntegerToIp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsExist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JudgeDuplicateChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxDifferenceInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinFetchMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecorganizeString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringGridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SalaryControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SanjiaoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchValueInAStringOfSortedInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SkipSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WordExtension.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
