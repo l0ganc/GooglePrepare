@@ -11,12 +11,12 @@ public class SmallestLexicographicStringWithLengthK {
         Stack<Character> stack = new Stack<>();
         stack.push(s.charAt(0));
         for (int i = 1; i < s.length(); i++) {
-            if (stack.peek() > s.charAt(i) && s.length() - stack.size() >= 0) {
+            while (!stack.isEmpty() && stack.peek() > s.charAt(i) && stack.size() + s.length() - i > k) {
                 stack.pop();
             }
-            if (stack.size() < k) {
-                stack.push(s.charAt(i));
-            }
+
+            stack.push(s.charAt(i));
+
         }
         StringBuilder sb = new StringBuilder();
         while (!stack.isEmpty()) {
