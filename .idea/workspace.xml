@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MockTeam/SmallestLexicographicStringWithLengthK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTeam/SmallestLexicographicStringWithLengthK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/BusRoute13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,15 +84,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MockTeam/SmallestLexicographicStringWithLengthK.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#137#138#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/BusRoute13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -153,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/CokeMachine18.java" />
         <option value="$PROJECT_DIR$/src/MockTeam/SmallestLexicographicStringWithLengthK.java" />
+        <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/BusRoute13.java" />
       </list>
     </option>
   </component>
@@ -209,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547449294059" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547492076639" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -231,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestLexicographicStringWithLengthK">
+  <component name="RunManager" selected="Application.BusRoute13">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -252,9 +263,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkipSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SkipSpace" />
+    <configuration name="BusRoute13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MostFrequentlyQuestions.BusRoute13" />
       <module name="GooglePrepare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MostFrequentlyQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -317,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SkipSpace" />
       <item itemvalue="Application.SportNumber" />
       <item itemvalue="Application.StringCompare" />
       <item itemvalue="Application.WordExtension" />
       <item itemvalue="Application.SmallestLexicographicStringWithLengthK" />
+      <item itemvalue="Application.BusRoute13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BusRoute13" />
         <item itemvalue="Application.SmallestLexicographicStringWithLengthK" />
         <item itemvalue="Application.WordExtension" />
         <item itemvalue="Application.StringCompare" />
         <item itemvalue="Application.SportNumber" />
-        <item itemvalue="Application.SkipSpace" />
       </list>
     </recent_temporary>
   </component>
@@ -376,18 +393,18 @@
       <workItem from="1545186661282" duration="598000" />
       <workItem from="1545244589151" duration="1322000" />
       <workItem from="1545319017844" duration="400000" />
-      <workItem from="1547405093600" duration="6900000" />
+      <workItem from="1547405093600" duration="7300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77284000" />
+    <option name="totallyTimeSpent" value="77684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0958486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16117217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -398,12 +415,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27142859" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27142859" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31938776" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31938776" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50061053" side_tool="true" weight="0.327551" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4993895" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -889,11 +906,18 @@
     <entry file="file://$PROJECT_DIR$/src/MockTeam/SmallestLexicographicStringWithLengthK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#137#138#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/BusRoute13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
