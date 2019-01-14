@@ -15,7 +15,7 @@ public class CokeMachine18 {
         Soda soda3 = new Soda(300, 360);
         Soda soda4 = new Soda(310, 360);
 
-        System.out.println(dfs(sodas, ));
+        //System.out.println(dfs(sodas, ));
 
     }
 
