@@ -41,9 +41,9 @@ public class FruitIntoBaskets904 {
         for (int j = 0; j < tree.length; j++) {
             map.put(tree[j], map.getOrDefault(tree[j], 0) + 1);
             while (map.size() > 2) {
-                map.put(tree[j], map.get(tree[j]) - 1);
-                if (map.get(tree[j]) == 0) {
-                    map.remove(tree[j]);
+                map.put(tree[i], map.get(tree[i]) - 1);
+                if (map.get(tree[i]) == 0) {
+                    map.remove(tree[i]);
                 }
                 i++;
             }
