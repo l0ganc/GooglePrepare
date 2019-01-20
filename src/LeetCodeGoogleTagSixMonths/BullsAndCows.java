@@ -5,6 +5,9 @@ public class BullsAndCows {
         String secret = "1123";
         String guess = "0111";
         System.out.println(getHint(secret, guess));
+        String a = "asafsdf";
+        System.out.println(a.replace("asa", "tt"));
+        System.out.println(a.indexOf("ats"));
     }
 
     public static String getHint(String secret, String guess) {

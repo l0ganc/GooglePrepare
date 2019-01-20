@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/LeetCodeGoogleTagSixMonths/BullsAndCows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/LeetCodeGoogleTagSixMonths/BullsAndCows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,11 +72,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
+            <state relative-caret-position="285">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="2221" column="18" selection-start-line="2221" selection-start-column="18" selection-end-line="2221" selection-end-column="18" />
+              <folding>
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
+                <element signature="e#94598#94599#0" expanded="true" />
+                <element signature="e#94636#94637#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LicenseKeyFormatting.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/MinCostToHireKWorkers.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java" />
       </list>
     </option>
   </component>
@@ -202,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547927470917" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548013400778" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -224,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BullsAndCows">
+  <component name="RunManager" selected="Application.FindAndReplaceInStringLC833">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -265,6 +295,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindAndReplaceInStringLC833" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.FindAndReplaceInStringLC833" />
+      <module name="GooglePrepare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LicenseKeyFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.LicenseKeyFormatting" />
       <module name="GooglePrepare" />
@@ -284,19 +327,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RobotWalk3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostFrequentlyQuestions.RobotWalk3" />
-      <module name="GooglePrepare" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MostFrequentlyQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,19 +358,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RobotWalk3" />
       <item itemvalue="Application.CohesityOA" />
       <item itemvalue="Application.LicenseKeyFormatting" />
       <item itemvalue="Application.MinCostToHireKWorkers" />
       <item itemvalue="Application.BullsAndCows" />
+      <item itemvalue="Application.FindAndReplaceInStringLC833" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAndReplaceInStringLC833" />
         <item itemvalue="Application.BullsAndCows" />
         <item itemvalue="Application.MinCostToHireKWorkers" />
         <item itemvalue="Application.LicenseKeyFormatting" />
         <item itemvalue="Application.CohesityOA" />
-        <item itemvalue="Application.RobotWalk3" />
       </list>
     </recent_temporary>
   </component>
@@ -388,12 +418,12 @@
       <workItem from="1545244589151" duration="1322000" />
       <workItem from="1545319017844" duration="400000" />
       <workItem from="1547405093600" duration="14342000" />
-      <workItem from="1547771554179" duration="5620000" />
+      <workItem from="1547771554179" duration="8236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90346000" />
+    <option name="totallyTimeSpent" value="92962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -409,7 +439,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27142859" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.24183674" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -718,45 +748,75 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>15</line>
+          <line>17</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>16</line>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>22</line>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>21</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>18</line>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>27</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java</url>
-          <line>29</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -769,19 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13980">
           <caret line="932" column="17" selection-start-line="932" selection-start-column="17" selection-end-line="932" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9060">
-          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1146,8 +1193,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="285">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="2221" column="18" selection-start-line="2221" selection-start-column="18" selection-end-line="2221" selection-end-column="18" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
