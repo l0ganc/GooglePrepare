@@ -21,8 +21,8 @@ public class MinCostToHireKWorkers {
         PriorityQueue<Double> pq = new PriorityQueue<>();
         for (double[] worker: workers) {
             qsum += worker[1];
-            pq.add(-worker[1]);
-            if (pq.size() > K) qsum += pq.poll();
+            pq.add(worker[1]);
+            if (pq.size() > K) qsum -= pq.poll();
             if (pq.size() == K) res = Math.min(res, qsum * worker[0]);
         }
         return res;
