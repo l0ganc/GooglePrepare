@@ -1,5 +1,6 @@
 package MostFrequentlyQuestions;
 
+import java.util.Iterator;
 import java.util.List;
 
 public class NTree17 {
@@ -17,6 +18,30 @@ public class NTree17 {
 
         for (Node child : root.children) {
             bfs(child, root, res);
+        }
+    }
+
+    private void dfsHelp(Node root, List<Node> res) {
+        if (root == null) {
+            return;
+        }
+
+        if (root.color.equals("red")) {
+            for (Node child : root.children) {
+                if (!child.color.equals("red")) {
+                    res.add(child);
+                }
+                dfsHelp(child, res);
+            }
+        } else {
+            Iterator<Node> it = root.children.iterator();
+            while (it.hasNext()) {
+                Node child = it.next();
+                if (child.color.equals("red")) {
+                    root.children.remove(child);
+                }
+                dfsHelp(child, res);
+            }
         }
     }
 }

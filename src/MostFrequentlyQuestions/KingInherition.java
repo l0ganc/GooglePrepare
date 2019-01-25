@@ -19,9 +19,10 @@ public class KingInherition {
     static Map<String, List<String>> tree = new HashMap<>();
     static Set<String> dead = new HashSet<>();
     String root = "king";
-    {
+    public KingInherition() {
         tree.put("king", new ArrayList<>());
     }
+
 
     public static void main(String[] args) {
 
