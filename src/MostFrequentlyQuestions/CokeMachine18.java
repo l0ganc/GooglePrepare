@@ -1,21 +1,27 @@
 package MostFrequentlyQuestions;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class CokeMachine18 {
     public static void main(String[] args) {
-        List<Soda> sodas = Arrays.asList(new Soda(100, 120),
-                new Soda(200, 240),
-                new Soda(400, 410));
-        Soda soda1 = new Soda(100, 110);
-        Soda soda2 = new Soda(90, 120);
-        Soda soda3 = new Soda(300, 360);
-        Soda soda4 = new Soda(310, 360);
 
-        //System.out.println(dfs(sodas, ));
+        Soda soda1 = new Soda(100, 120);
+        Soda soda2 = new Soda(200, 240);
+        Soda soda3 = new Soda(400, 410);
+        List<Soda> sodas = Arrays.asList(soda1,soda2, soda3);
+
+        System.out.println(dfs(sodas, 0, 0,
+                100, 110, new HashMap<>()));
+
+        System.out.println(dfs(sodas, 0, 0,
+                90, 120, new HashMap<>()));
+
+        System.out.println(dfs(sodas, 0, 0,
+                300, 360, new HashMap<>()));
+
+        System.out.println(dfs(sodas, 0, 0,
+                310, 360, new HashMap<>()));
+
 
     }
 
