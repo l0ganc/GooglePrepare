@@ -20,7 +20,6 @@ public class LC815BusRoutes {
                 map.put(routes[i][j], buses);
             }
         }
-
         q.offer(S);
         while (!q.isEmpty()) {
             int len = q.size();
