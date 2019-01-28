@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Occur4times/ScreenFontSizeFit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,18 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/NTree17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/CokeMachine18.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,11 +73,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur4times/imageReverseBit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="70">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur4times/ScreenFontSizeFit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding>
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MinFetchMath.java" />
         <option value="$PROJECT_DIR$/src/DivideAndConquerToFindSecondLargest.java" />
         <option value="$PROJECT_DIR$/src/JudgeDuplicateChar.java" />
         <option value="$PROJECT_DIR$/src/SanjiaoArray.java" />
@@ -200,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/Occur4times/NLevelMap.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/PickCardGame.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/imageReverseBit.java" />
+        <option value="$PROJECT_DIR$/src/Occur4times/ScreenFontSizeFit.java" />
       </list>
     </option>
   </component>
@@ -268,7 +272,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548632771828" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548634657254" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -461,12 +465,12 @@
       <workItem from="1545319017844" duration="400000" />
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
-      <workItem from="1548349013533" duration="21092000" />
+      <workItem from="1548349013533" duration="22593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124268000" />
+    <option name="totallyTimeSpent" value="125769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -1274,13 +1278,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/IsExist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JudgeDuplicateChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1633,13 +1630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Occur4times/NLevelMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur4times/PickCardGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -1660,8 +1650,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur4times/imageReverseBit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="70">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur4times/NLevelMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur4times/ScreenFontSizeFit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
