@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC676MagicDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC849MaximizeDistanceToClosestPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur4times/imageReverseBit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur4times/ScreenFontSizeFit.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,11 +107,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC676MagicDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="637">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC849MaximizeDistanceToClosestPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+              <folding>
+                <element signature="e#1865#1866#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/最近几个月的电面.txt" />
         <option value="$PROJECT_DIR$/src/SportNumber.java" />
         <option value="$PROJECT_DIR$/src/WordExtension.java" />
         <option value="$PROJECT_DIR$/src/ExangeChange.java" />
@@ -214,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/Occur4times/IteratorOfInterator.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/IteratorOfInteratorFollowUpKLists.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC676MagicDictionary.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC849MaximizeDistanceToClosestPerson.java" />
       </list>
     </option>
   </component>
@@ -247,6 +255,12 @@
               <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Occur3times" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -257,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548734106829" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548735794651" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -279,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IteratorOfInterator">
+  <component name="RunManager" selected="Application.LC849MaximizeDistanceToClosestPerson">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -339,12 +353,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PickCardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur4times.PickCardGame" />
+    <configuration name="LC849MaximizeDistanceToClosestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC849MaximizeDistanceToClosestPerson" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Occur4times.*" />
+          <option name="PATTERN" value="Occur3times.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,8 +366,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XiaWeiqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur4times.XiaWeiqi" />
+    <configuration name="PickCardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur4times.PickCardGame" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -389,19 +403,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.XiaWeiqi" />
       <item itemvalue="Application.FindDuplicate" />
       <item itemvalue="Application.PickCardGame" />
       <item itemvalue="Application.LC803BricksFallingWhenHit" />
       <item itemvalue="Application.IteratorOfInterator" />
+      <item itemvalue="Application.LC849MaximizeDistanceToClosestPerson" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC849MaximizeDistanceToClosestPerson" />
         <item itemvalue="Application.IteratorOfInterator" />
         <item itemvalue="Application.LC803BricksFallingWhenHit" />
         <item itemvalue="Application.PickCardGame" />
         <item itemvalue="Application.FindDuplicate" />
-        <item itemvalue="Application.XiaWeiqi" />
       </list>
     </recent_temporary>
   </component>
@@ -451,18 +465,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="765000" />
+      <workItem from="1548732788323" duration="1866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133047000" />
+    <option name="totallyTimeSpent" value="134148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22893773" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18437119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1264,13 +1278,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SalaryControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SanjiaoArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1663,8 +1670,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC676MagicDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="637">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC849MaximizeDistanceToClosestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="e#1865#1866#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
