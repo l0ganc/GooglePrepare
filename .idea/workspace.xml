@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC334IncreasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,30 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur4times/IteratorOfInterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur4times/IteratorOfInteratorFollowUpKLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC676MagicDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC844BackspaceStringCompare.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -114,23 +90,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC334IncreasingTripletSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="565">
               <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="173">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="422" selection-start-line="422" selection-end-line="422" />
               <folding>
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#16420#16421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StrictMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="339" selection-start-line="339" selection-end-line="339" />
+              <folding>
+                <element signature="e#12658#12659#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/InorderSuccessorInBST.java" />
         <option value="$PROJECT_DIR$/src/ArrayCopyTest.java" />
         <option value="$PROJECT_DIR$/src/StringGridTest.java" />
         <option value="$PROJECT_DIR$/src/FindCombinationsOfString.java" />
@@ -212,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/Occur3times/DecodeString.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC394DecodeString.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC334IncreasingTripletSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java" />
       </list>
     </option>
   </component>
@@ -267,7 +263,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548787985978" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548790534551" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -290,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC334IncreasingTripletSubsequence">
+  <component name="RunManager" selected="Application.LC744MinimizeMaxDistanceToGasStation">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -337,8 +333,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC418SentenceScreenFitting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC418SentenceScreenFitting" />
+    <configuration name="LC68TextJustification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC68TextJustification" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -350,8 +346,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC68TextJustification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC68TextJustification" />
+    <configuration name="LC744MinimizeMaxDistanceToGasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC744MinimizeMaxDistanceToGasStation" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -400,19 +396,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC418SentenceScreenFitting" />
       <item itemvalue="Application.LC68TextJustification" />
       <item itemvalue="Application.LC844BackspaceStringCompare" />
       <item itemvalue="Application.LC394DecodeString" />
       <item itemvalue="Application.LC334IncreasingTripletSubsequence" />
+      <item itemvalue="Application.LC744MinimizeMaxDistanceToGasStation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC744MinimizeMaxDistanceToGasStation" />
         <item itemvalue="Application.LC334IncreasingTripletSubsequence" />
         <item itemvalue="Application.LC394DecodeString" />
         <item itemvalue="Application.LC844BackspaceStringCompare" />
         <item itemvalue="Application.LC68TextJustification" />
-        <item itemvalue="Application.LC418SentenceScreenFitting" />
       </list>
     </recent_temporary>
   </component>
@@ -462,18 +458,17 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="8159000" />
+      <workItem from="1548732788323" duration="9777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140441000" />
+    <option name="totallyTimeSpent" value="142059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23687424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23687424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -484,11 +479,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.20204082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49285713" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49285713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.501221" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1283,42 +1278,76 @@
           <properties />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/TreeIsomorphismProblem16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MockTeam/SmallestLexicographicStringWithLengthK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/RandomPickPointInAListOfRectangles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths.java" />
     <entry file="file://$PROJECT_DIR$/src/CohesityOA.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1681,7 +1710,7 @@
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC844BackspaceStringCompare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -1694,8 +1723,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC334IncreasingTripletSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="565">
           <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="339" selection-start-line="339" selection-end-line="339" />
+          <folding>
+            <element signature="e#12658#12659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="422" selection-start-line="422" selection-end-line="422" />
+          <folding>
+            <element signature="e#16420#16421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
