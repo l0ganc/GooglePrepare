@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC768MaxChunksToMakeSortedII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <state relative-caret-position="273">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC768MaxChunksToMakeSortedII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -71,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/CarFleet6.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/RandomPickPointInAListOfRectangles.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/RobotWalk3.java" />
         <option value="$PROJECT_DIR$/src/CohesityOA.java" />
@@ -122,14 +130,15 @@
         <option value="$PROJECT_DIR$/src/Occur4times/RandomMazeGeneration.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC312BurstBalloons.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC768MaxChunksToMakeSortedII.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="15" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="712" />
+    <option name="y" value="152" />
     <option name="width" value="1680" />
-    <option name="height" value="960" />
+    <option name="height" value="963" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,7 +194,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548886132208" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548887081804" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -208,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC769MaxChunksToMakeSorted">
+  <component name="RunManager" selected="Application.LC768MaxChunksToMakeSortedII">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -268,8 +277,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC744MinimizeMaxDistanceToGasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC744MinimizeMaxDistanceToGasStation" />
+    <configuration name="LC768MaxChunksToMakeSortedII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC768MaxChunksToMakeSortedII" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -318,19 +327,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC744MinimizeMaxDistanceToGasStation" />
       <item itemvalue="Application.LC340LongestSubstringwithAtMostKDistinctCharacters" />
       <item itemvalue="Application.LC215KthLargestElementInAnArray" />
       <item itemvalue="Application.LC312BurstBalloons" />
       <item itemvalue="Application.LC769MaxChunksToMakeSorted" />
+      <item itemvalue="Application.LC768MaxChunksToMakeSortedII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC768MaxChunksToMakeSortedII" />
         <item itemvalue="Application.LC769MaxChunksToMakeSorted" />
         <item itemvalue="Application.LC312BurstBalloons" />
         <item itemvalue="Application.LC215KthLargestElementInAnArray" />
         <item itemvalue="Application.LC340LongestSubstringwithAtMostKDistinctCharacters" />
-        <item itemvalue="Application.LC744MinimizeMaxDistanceToGasStation" />
       </list>
     </recent_temporary>
   </component>
@@ -380,18 +389,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="17320000" />
+      <workItem from="1548732788323" duration="18058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149602000" />
+    <option name="totallyTimeSpent" value="150340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2912088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,12 +410,12 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.20204082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.20204082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49285713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.501221" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1313,13 +1322,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/SwapAdjacentinLRStringLC777.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24705">
@@ -1744,8 +1746,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        <state relative-caret-position="273">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC768MaxChunksToMakeSortedII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
         </state>
       </provider>
     </entry>
