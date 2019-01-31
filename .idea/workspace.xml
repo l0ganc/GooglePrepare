@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -76,14 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+            <state relative-caret-position="591">
+              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -113,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FruitIntoBaskets904.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LicenseKeyFormatting.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java" />
@@ -164,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/Occur3times/LC505TheMazeII.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC96UniqueBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java" />
       </list>
     </option>
   </component>
@@ -227,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548892027349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548894925142" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -250,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC939MinimumAreaRectangle">
+  <component name="RunManager" selected="Application.LC963MinimumAreaRectangleII">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -297,8 +306,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC769MaxChunksToMakeSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC769MaxChunksToMakeSorted" />
+    <configuration name="LC939MinimumAreaRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC939MinimumAreaRectangle" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -310,8 +319,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC939MinimumAreaRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC939MinimumAreaRectangle" />
+    <configuration name="LC963MinimumAreaRectangleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC963MinimumAreaRectangleII" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -360,19 +369,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC769MaxChunksToMakeSorted" />
       <item itemvalue="Application.LC768MaxChunksToMakeSortedII" />
       <item itemvalue="Application.LC505TheMazeII" />
       <item itemvalue="Application.LC96UniqueBinarySearchTree" />
       <item itemvalue="Application.LC939MinimumAreaRectangle" />
+      <item itemvalue="Application.LC963MinimumAreaRectangleII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC963MinimumAreaRectangleII" />
         <item itemvalue="Application.LC939MinimumAreaRectangle" />
         <item itemvalue="Application.LC96UniqueBinarySearchTree" />
         <item itemvalue="Application.LC505TheMazeII" />
         <item itemvalue="Application.LC768MaxChunksToMakeSortedII" />
-        <item itemvalue="Application.LC769MaxChunksToMakeSorted" />
       </list>
     </recent_temporary>
   </component>
@@ -422,18 +431,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="20153000" />
+      <workItem from="1548732788323" duration="21549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152435000" />
+    <option name="totallyTimeSpent" value="153831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25946277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25946277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -443,12 +452,12 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.20204082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.20204082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49285713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.501221" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1355,16 +1364,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC497RandomPickwithWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/RectangleAreaIILC850.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1783,11 +1782,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        <state relative-caret-position="591">
+          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
