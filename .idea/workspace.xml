@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBSTFollowUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -97,11 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBST.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
               <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBSTFollowUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -131,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/SwapAdjacentinLRStringLC777.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LongestIncreasingPathinaMatrixLC329.java" />
@@ -182,10 +190,11 @@
         <option value="$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBST.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBSTFollowUp.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="15" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
@@ -245,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548896814797" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548897458662" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -440,18 +449,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="22560000" />
+      <workItem from="1548732788323" duration="23048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154842000" />
+    <option name="totallyTimeSpent" value="155330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25946277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18498169" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1373,13 +1382,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC853CarFleet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/MinCostToHireKWorkers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1803,6 +1805,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBSTFollowUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
         </state>
       </provider>
     </entry>
