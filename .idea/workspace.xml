@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC302SmallestRectangleEnclosingBlackPixels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC312BurstBalloons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +106,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC302SmallestRectangleEnclosingBlackPixels.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+            <state relative-caret-position="264">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/SwapAdjacentinLRStringLC777.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LongestIncreasingPathinaMatrixLC329.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/CircularArrayLoopLC457.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC497RandomPickwithWeight.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/RectangleAreaIILC850.java" />
@@ -200,6 +201,8 @@
         <option value="$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBST.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBSTFollowUp.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC302SmallestRectangleEnclosingBlackPixels.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC730DailyTemperatures.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java" />
       </list>
     </option>
   </component>
@@ -239,6 +242,12 @@
               <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
               <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCodeGoogleTagSixMonths" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MostFrequentlyQuestions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,7 +272,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548978182407" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548984514727" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -286,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC302SmallestRectangleEnclosingBlackPixels">
+  <component name="RunManager" selected="Application.LC739DailyTemperatures">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -320,8 +329,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC505TheMazeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC505TheMazeII" />
+    <configuration name="LC739DailyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC739DailyTemperatures" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -396,19 +405,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC505TheMazeII" />
       <item itemvalue="Application.LC96UniqueBinarySearchTree" />
       <item itemvalue="Application.LC939MinimumAreaRectangle" />
       <item itemvalue="Application.LC963MinimumAreaRectangleII" />
       <item itemvalue="Application.LC302SmallestRectangleEnclosingBlackPixels" />
+      <item itemvalue="Application.LC739DailyTemperatures" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC739DailyTemperatures" />
         <item itemvalue="Application.LC302SmallestRectangleEnclosingBlackPixels" />
         <item itemvalue="Application.LC963MinimumAreaRectangleII" />
         <item itemvalue="Application.LC939MinimumAreaRectangle" />
         <item itemvalue="Application.LC96UniqueBinarySearchTree" />
-        <item itemvalue="Application.LC505TheMazeII" />
       </list>
     </recent_temporary>
   </component>
@@ -458,18 +467,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="24725000" />
+      <workItem from="1548732788323" duration="25915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157007000" />
+    <option name="totallyTimeSpent" value="158197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498169" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21672772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1391,16 +1400,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC750NumberOfCornerRectangles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC815BusRoutes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
@@ -1816,8 +1815,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC302SmallestRectangleEnclosingBlackPixels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        <state relative-caret-position="264">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
