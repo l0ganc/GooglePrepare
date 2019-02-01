@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC768MaxChunksToMakeSortedII.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,13 +106,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="427">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/CircularArrayLoopLC457.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC497RandomPickwithWeight.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/RectangleAreaIILC850.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC853CarFleet.java" />
@@ -203,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/Occur3times/LC302SmallestRectangleEnclosingBlackPixels.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC730DailyTemperatures.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java" />
+        <option value="$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java" />
       </list>
     </option>
   </component>
@@ -272,7 +277,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548984514727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548987097760" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -295,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC739DailyTemperatures">
+  <component name="RunManager" selected="Application.LC731MyCalendarII">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -318,6 +323,19 @@
     </configuration>
     <configuration name="LC302SmallestRectangleEnclosingBlackPixels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Occur3times.LC302SmallestRectangleEnclosingBlackPixels" />
+      <module name="GooglePrepare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Occur3times.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC731MyCalendarII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Occur3times.LC731MyCalendarII" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -368,19 +386,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC96UniqueBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC96UniqueBinarySearchTree" />
-      <module name="GooglePrepare" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Occur3times.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -405,19 +410,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC96UniqueBinarySearchTree" />
       <item itemvalue="Application.LC939MinimumAreaRectangle" />
       <item itemvalue="Application.LC963MinimumAreaRectangleII" />
       <item itemvalue="Application.LC302SmallestRectangleEnclosingBlackPixels" />
       <item itemvalue="Application.LC739DailyTemperatures" />
+      <item itemvalue="Application.LC731MyCalendarII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC731MyCalendarII" />
         <item itemvalue="Application.LC739DailyTemperatures" />
         <item itemvalue="Application.LC302SmallestRectangleEnclosingBlackPixels" />
         <item itemvalue="Application.LC963MinimumAreaRectangleII" />
         <item itemvalue="Application.LC939MinimumAreaRectangle" />
-        <item itemvalue="Application.LC96UniqueBinarySearchTree" />
       </list>
     </recent_temporary>
   </component>
@@ -467,18 +472,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="25915000" />
+      <workItem from="1548732788323" duration="27133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158197000" />
+    <option name="totallyTimeSpent" value="159415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21672772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21672772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -488,12 +493,12 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.20204082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.20204082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49285713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.501221" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1396,17 +1401,82 @@
           <properties />
           <option name="timeStamp" value="180" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC815BusRoutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1822,10 +1892,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="427">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC731MyCalendarII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
