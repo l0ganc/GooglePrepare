@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/GuessWordBianzhong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/LC562LongestLineofConsecutiveOneinMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="44" column="52" lean-forward="true" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC230KthSmallestElementinaBST.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,11 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/GuessWordBianzhong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="-57">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC562LongestLineofConsecutiveOneinMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -158,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MInimumCostToHireKWorkders.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/MinCostToHireKWorkers.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC750NumberOfCornerRectangles.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC815BusRoutes.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java" />
@@ -209,6 +207,8 @@
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/FindWordInLyric.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC287FindDuplicateNumber.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC684findRedundantConnection.java" />
+        <option value="$PROJECT_DIR$/src/RecentlyQuestions/GuessWordBianzhong.java" />
+        <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC562LongestLineofConsecutiveOneinMatrix.java" />
       </list>
     </option>
   </component>
@@ -284,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548999154976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549000427210" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC287FindDuplicateNumber">
+  <component name="RunManager" selected="Application.LC562LongestLineofConsecutiveOneinMatrix">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -354,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC302SmallestRectangleEnclosingBlackPixels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC302SmallestRectangleEnclosingBlackPixels" />
+    <configuration name="LC562LongestLineofConsecutiveOneinMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.LC562LongestLineofConsecutiveOneinMatrix" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Occur3times.*" />
+          <option name="PATTERN" value="RecentlyQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,19 +417,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC302SmallestRectangleEnclosingBlackPixels" />
       <item itemvalue="Application.LC739DailyTemperatures" />
       <item itemvalue="Application.LC731MyCalendarII" />
       <item itemvalue="Application.FindWordInLyric" />
       <item itemvalue="Application.LC287FindDuplicateNumber" />
+      <item itemvalue="Application.LC562LongestLineofConsecutiveOneinMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC562LongestLineofConsecutiveOneinMatrix" />
         <item itemvalue="Application.LC287FindDuplicateNumber" />
         <item itemvalue="Application.FindWordInLyric" />
         <item itemvalue="Application.LC731MyCalendarII" />
         <item itemvalue="Application.LC739DailyTemperatures" />
-        <item itemvalue="Application.LC302SmallestRectangleEnclosingBlackPixels" />
       </list>
     </recent_temporary>
   </component>
@@ -479,18 +479,18 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="30444000" />
+      <workItem from="1548732788323" duration="31454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162726000" />
+    <option name="totallyTimeSpent" value="163736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21672772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16361417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1484,16 +1484,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/CarFleet6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/CornerRectangle12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1917,8 +1907,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/GuessWordBianzhong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="-57">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC562LongestLineofConsecutiveOneinMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
         </state>
       </provider>
     </entry>
