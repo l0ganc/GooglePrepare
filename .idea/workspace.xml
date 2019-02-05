@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/LC911OnlineElection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/RecentlyQuestions/IsomorphicStringsBianzhong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/RecentlyQuestions/IsomorphicStringsBianzhong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,108 +31,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC562LongestLineofConsecutiveOneinMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC947MostStonesRemovedwithSameRoworColumn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/ThreeIntegerValidDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-              <folding>
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC900RLEIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC940IIDistinctSubsequences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="715">
-              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/Nrhyme.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java">
+        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC911OnlineElection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="230">
+              <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1642#1643#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Occur4times/imageReverseBit.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/ScreenFontSizeFit.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/LC803BricksFallingWhenHit.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/LC253MeetingRoomsII.java" />
@@ -206,12 +113,13 @@
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/VocabSuperstring.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java" />
-        <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/ThreeIntegerValidDate.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC900RLEIterator.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC940IIDistinctSubsequences.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/Nrhyme.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java" />
+        <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java" />
+        <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC911OnlineElection.java" />
       </list>
     </option>
   </component>
@@ -286,7 +194,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549343826526" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549394738262" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -309,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsomorphicStringsBianzhong">
+  <component name="RunManager" selected="Application.LC911OnlineElection">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -343,8 +251,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC317ShortestDistancefromAllBuildings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.LC317ShortestDistancefromAllBuildings" />
+    <configuration name="LC911OnlineElection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.LC911OnlineElection" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -419,19 +327,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC317ShortestDistancefromAllBuildings" />
       <item itemvalue="Application.ThreeIntegerValidDate" />
       <item itemvalue="Application.LC940IIDistinctSubsequences" />
       <item itemvalue="Application.Nrhyme" />
       <item itemvalue="Application.IsomorphicStringsBianzhong" />
+      <item itemvalue="Application.LC911OnlineElection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC911OnlineElection" />
         <item itemvalue="Application.IsomorphicStringsBianzhong" />
         <item itemvalue="Application.Nrhyme" />
         <item itemvalue="Application.LC940IIDistinctSubsequences" />
         <item itemvalue="Application.ThreeIntegerValidDate" />
-        <item itemvalue="Application.LC317ShortestDistancefromAllBuildings" />
       </list>
     </recent_temporary>
   </component>
@@ -481,15 +389,16 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="46499000" />
+      <workItem from="1548732788323" duration="48964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178781000" />
+    <option name="totallyTimeSpent" value="181246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20573871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -502,11 +411,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" weight="0.20204082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.50510204" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50183153" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1553,27 +1462,16 @@
           <properties />
           <option name="timeStamp" value="205" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecentlyQuestions/LC911OnlineElection.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Occur4times/LC803BricksFallingWhenHit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Occur4times/LC253MeetingRoomsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur4times/JudegIfTimeSlotIsFree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1946,16 +1844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/ThreeIntegerValidDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1993,11 +1881,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="375">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1642#1643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC317ShortestDistancefromAllBuildings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="1862" column="22" selection-start-line="1862" selection-start-column="22" selection-end-line="1862" selection-end-column="22" />
+          <folding>
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC911OnlineElection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -51,6 +51,10 @@ public class IsomorphicStringsBianzhong {
 
     public static void main(String[] args) {
         System.out.println(isomorphic("abca", "dced"));
+        Map<Integer, Integer> count = new HashMap<>();
+        count.put(0, 1);
+        System.out.println(count.get(-1));
+        System.out.println(count.get(0) > count.get(-1));
     }
 
 }

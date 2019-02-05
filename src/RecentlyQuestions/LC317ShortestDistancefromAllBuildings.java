@@ -23,11 +23,18 @@ import java.util.Queue;
  */
 public class LC317ShortestDistancefromAllBuildings {
     /**
-     * 思路：
-     * 每遇到一个1，我们为它跑一次dijkstra算法得到每一块可以到达该building的空地距离它的最短距离
-     * 同时我们需要统计每块空地能到达的building的数量，我们只关心能到达所有building的空地
-     * 图中的边不带权值，dijkstra算法的队列可以用普通队列实现
-     * Time Complexity: O(kn)，k为building数量，n为格子数量
+     * Traverse the matrix. For each building, use BFS to compute the shortest distance from each '0' to
+     * this building. After we do this for all the buildings, we can get the sum of shortest distance
+     * from every '0' to all reachable buildings. This value is stored
+     * in 'distance[][]'. For example, if grid[2][2] == 0, distance[2][2] is the sum of shortest distance from this block to all reachable buildings.
+     * Time complexity: O(number of 1)O(number of 0) ~ O(m^2n^2)
+     *
+     * We also count how many building each '0' can be reached. It is stored in reach[][].
+     * This can be done during the BFS. We also need to count how many total buildings are there in the matrix, which is stored in 'buildingNum'.
+     *
+     * Finally, we can traverse the distance[][] matrix to get the point having shortest distance to all buildings. O(m*n)
+     *
+     * The total time complexity will be O(m^2*n^2), which is quite high!. Please let me know if I did the analysis wrong or you have better solution.
      */
 
     public static int shortestDistance(int[][] grid) {
