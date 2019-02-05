@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Occur3times/LC302SmallestRectangleEnclosingBlackPixels.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Occur3times/LC739DailyTemperatures.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,14 +114,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="495">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -161,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/NTree17.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/CokeMachine18.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/XiaWeiqi.java" />
@@ -212,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/WordCardMatch.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/VocabSuperstring.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java" />
+        <option value="$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java" />
       </list>
     </option>
   </component>
@@ -286,7 +286,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549324394671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549326178854" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -309,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC947MostStonesRemovedwithSameRoworColumn">
+  <component name="RunManager" selected="Application.OddEvenArray">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -369,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC731MyCalendarII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur3times.LC731MyCalendarII" />
+    <configuration name="LC947MostStonesRemovedwithSameRoworColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.LC947MostStonesRemovedwithSameRoworColumn" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Occur3times.*" />
+          <option name="PATTERN" value="RecentlyQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,8 +382,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC947MostStonesRemovedwithSameRoworColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.LC947MostStonesRemovedwithSameRoworColumn" />
+    <configuration name="OddEvenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.OddEvenArray" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -419,19 +419,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC731MyCalendarII" />
       <item itemvalue="Application.FindWordInLyric" />
       <item itemvalue="Application.LC287FindDuplicateNumber" />
       <item itemvalue="Application.LC562LongestLineofConsecutiveOneinMatrix" />
       <item itemvalue="Application.LC947MostStonesRemovedwithSameRoworColumn" />
+      <item itemvalue="Application.OddEvenArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddEvenArray" />
         <item itemvalue="Application.LC947MostStonesRemovedwithSameRoworColumn" />
         <item itemvalue="Application.LC562LongestLineofConsecutiveOneinMatrix" />
         <item itemvalue="Application.LC287FindDuplicateNumber" />
         <item itemvalue="Application.FindWordInLyric" />
-        <item itemvalue="Application.LC731MyCalendarII" />
       </list>
     </recent_temporary>
   </component>
@@ -481,18 +481,17 @@
       <workItem from="1547405093600" duration="14342000" />
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
-      <workItem from="1548732788323" duration="39006000" />
+      <workItem from="1548732788323" duration="40233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171288000" />
+    <option name="totallyTimeSpent" value="172515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20573871" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20573871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -503,11 +502,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.20204082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.50510204" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.50510204" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498779" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.501221" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1530,17 +1529,16 @@
           <properties />
           <option name="timeStamp" value="200" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArrayCopyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -1961,11 +1959,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="495">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
         </state>
       </provider>
     </entry>
