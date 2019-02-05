@@ -13,6 +13,13 @@ package RecentlyQuestions;
  *  月份范围1-12
  *  day范围1-31
  *  year范围正整数
+ *
+ *
+ *  Follow up: 判断上一题的date是否是ambiguous
+ *     比如（2018,5,6）可以是2018年5月6号，也可以是2018年6月5号，这就算ambiguous，产生了歧义。
+ *
+ * 思路
+ * 看一个数字是否能满足year，month，day中的多个限制
  */
 public class ThreeIntegerValidDate {
     static int[] days = new int[]{
