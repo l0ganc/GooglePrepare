@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RecentlyQuestions/LC698_24Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionFindRelatedQuestions/LC200NumberOfIslands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -70,14 +70,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC698_24Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-39">
               <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/最近几个月的电面.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="915" column="5" lean-forward="true" selection-start-line="915" selection-start-column="5" selection-end-line="915" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UnionFindRelatedQuestions/LC200NumberOfIslands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -120,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Occur4times/IteratorOfInterator.java" />
         <option value="$PROJECT_DIR$/src/Occur4times/IteratorOfInteratorFollowUpKLists.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC676MagicDictionary.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC849MaximizeDistanceToClosestPerson.java" />
@@ -171,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC210CourseScheduleII.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC611ValidTriangleNumber.java" />
         <option value="$PROJECT_DIR$/src/RecentlyQuestions/LC698_24Game.java" />
+        <option value="$PROJECT_DIR$/src/UnionFindRelatedQuestions/LC200NumberOfIslands.java" />
       </list>
     </option>
   </component>
@@ -206,36 +224,6 @@
               <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCodeGoogleTagSixMonths" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MostFrequentlyQuestions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Occur3times" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Occur4times" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RecentlyQuestions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -245,7 +233,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549424430490" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549433898265" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -268,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC698_24Game">
+  <component name="RunManager" selected="Application.LC200NumberOfIslands">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -285,6 +273,19 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC200NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionFindRelatedQuestions.LC200NumberOfIslands" />
+      <module name="GooglePrepare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnionFindRelatedQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -341,19 +342,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC911OnlineElection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecentlyQuestions.LC911OnlineElection" />
-      <module name="GooglePrepare" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RecentlyQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -378,19 +366,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC911OnlineElection" />
       <item itemvalue="Application.LC801MinimumSwapsToMakeSequencesIncreasing" />
       <item itemvalue="Application.LC210CourseScheduleII" />
       <item itemvalue="Application.LC611ValidTriangleNumber" />
       <item itemvalue="Application.LC698_24Game" />
+      <item itemvalue="Application.LC200NumberOfIslands" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC200NumberOfIslands" />
         <item itemvalue="Application.LC698_24Game" />
         <item itemvalue="Application.LC611ValidTriangleNumber" />
         <item itemvalue="Application.LC210CourseScheduleII" />
         <item itemvalue="Application.LC801MinimumSwapsToMakeSequencesIncreasing" />
-        <item itemvalue="Application.LC911OnlineElection" />
       </list>
     </recent_temporary>
   </component>
@@ -441,18 +429,18 @@
       <workItem from="1547771554179" duration="18450000" />
       <workItem from="1548349013533" duration="29106000" />
       <workItem from="1548732788323" duration="50150000" />
-      <workItem from="1549405406708" duration="3771000" />
+      <workItem from="1549405406708" duration="5744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186203000" />
+    <option name="totallyTimeSpent" value="188176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20818071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20818071" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -462,12 +450,12 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.498779" visible="true" weight="0.20204082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" weight="0.20204082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" visible="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50183153" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1536,30 +1524,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC849MaximizeDistanceToClosestPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC418SentenceScreenFitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC68TextJustification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BackspaceStringCompare.java" />
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC844BackspaceStringCompare.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1943,13 +1907,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnionFindRelatedQuestions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC698_24Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="-39">
           <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/最近几个月的电面.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="915" column="5" lean-forward="true" selection-start-line="915" selection-start-column="5" selection-end-line="915" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnionFindRelatedQuestions/LC200NumberOfIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
         </state>
       </provider>
     </entry>
