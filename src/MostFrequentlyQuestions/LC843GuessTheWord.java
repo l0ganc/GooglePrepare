@@ -33,5 +33,7 @@ public class LC843GuessTheWord {
 }
 
 class Master{
-    public int guess(String word) {}
+    public int guess(String word) {
+        return 1;
+    }
 }
