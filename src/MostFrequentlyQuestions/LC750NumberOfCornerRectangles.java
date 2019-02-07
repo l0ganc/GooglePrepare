@@ -1,4 +1,4 @@
-package LeetCodeGoogleTagSixMonths;
+package MostFrequentlyQuestions;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -14,15 +14,15 @@ public class LC750NumberOfCornerRectangles {
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    continue;
-                }
-                for (int q = j + 1; q < n; q++) {
-                    if (grid[i][q] == 0) {
-                        continue;
+                if (grid[i][j] == 1) {
+                    for (int q = j + 1; q < n; q++) {
+                        if (grid[i][q] == 1) {
+                            res += dp[j][q]++;
+                        }
+
                     }
-                    res += dp[j][q]++;
                 }
+
             }
         }
         return res;
