@@ -1,4 +1,4 @@
-package LeetCodeGoogleTagSixMonths;
+package MostFrequentlyQuestions;
 
 import java.util.TreeMap;
 
@@ -14,13 +14,18 @@ public class LC853CarFleet {
      */
 
     public static int carFleet(int target, int[] pos, int[] speed) {
-        TreeMap<Integer, Double> m = new TreeMap<>();
-        for (int i = 0; i < pos.length; ++i) m.put(-pos[i], (double)(target - pos[i]) / speed[i]);
-        int res = 0; double cur = 0;
-        for (double time : m.values()) {
-            if (time > cur) {
-                cur = time;
+        TreeMap<Integer, Integer> map = new TreeMap<>();
+        for (int i = 0; i < pos.length; i++) {
+            map.put(target - pos[i], speed[i]);
+        }
+
+        double curMaxTime = 0;
+        int res = 0;
+        for (int key : map.keySet()) {
+            double time = key / map.get(key);
+            if (time > curMaxTime) {
                 res++;
+                curMaxTime = time;
             }
         }
         return res;
