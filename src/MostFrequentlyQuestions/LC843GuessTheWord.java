@@ -29,6 +29,15 @@ public class LC843GuessTheWord {
         return res;
     }
 
+    static class Pair {
+        String key;
+        int freq;
+        public Pair(String key, int freq) {
+            this.key = key;
+            this.freq = freq;
+        }
+    }
+
     public static void findSecretWordII(String[] wordlist, Master master) {
         List<String> list = new ArrayList<>();
         for (String str : wordlist) {
@@ -73,12 +82,5 @@ class Master{
     }
 }
 
-class Pair {
-    String key;
-    int freq;
-    public Pair(String key, int freq) {
-        this.key = key;
-        this.freq = freq;
-    }
-}
+
 
