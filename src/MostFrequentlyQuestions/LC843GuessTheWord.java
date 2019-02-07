@@ -21,7 +21,7 @@ public class LC843GuessTheWord {
         }
     }
 
-    public int match(String s, String word) {
+    public static int match(String s, String word) {
         int res = 0;
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == word.charAt(i)) {
