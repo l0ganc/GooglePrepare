@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/DeleteEdgeInBinartSearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC843GuessTheWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,11 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/DeleteEdgeInBinartSearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="260">
+              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC843GuessTheWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Occur3times/DecodeString.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC394DecodeString.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC334IncreasingTripletSubsequence.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC744MinimizeMaxDistanceToGasStation.java" />
@@ -135,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC684RedundantConnection.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC685RedundantConnectionII.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/DeleteEdgeInBinartSearchTree.java" />
+        <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC843GuessTheWord.java" />
       </list>
     </option>
   </component>
@@ -178,8 +190,7 @@
               <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
               <item name="GooglePrepare" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MostFrequentlyQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="HumanBikeMatch.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Occur3times" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GooglePrepare" type="b2602c69:ProjectViewProjectNode" />
@@ -204,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549515311022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549518759044" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -389,15 +400,16 @@
       <workItem from="1548349013533" duration="29106000" />
       <workItem from="1548732788323" duration="50150000" />
       <workItem from="1549405406708" duration="9358000" />
-      <workItem from="1549487936235" duration="5298000" />
+      <workItem from="1549487936235" duration="5866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197088000" />
+    <option name="totallyTimeSpent" value="197656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21611722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1483,13 +1495,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC426ConvertBinarySearchTreetoSortedDoublyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC215KthLargestElementInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-467">
@@ -1884,8 +1889,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/DeleteEdgeInBinartSearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="260">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC843GuessTheWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
