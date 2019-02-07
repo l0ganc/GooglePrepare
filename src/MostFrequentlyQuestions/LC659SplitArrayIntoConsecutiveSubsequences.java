@@ -1,11 +1,16 @@
-package LeetCodeGoogleTagSixMonths;
+package MostFrequentlyQuestions;
 
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * http://www.cnblogs.com/grandyang/p/7525821.html
+ *
+ */
 public class LC659SplitArrayIntoConsecutiveSubsequences {
     public static boolean isPossible(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>(), appendfreq = new HashMap<>();
+        Map<Integer, Integer> freq = new HashMap<>();
+        Map<Integer, Integer> appendfreq = new HashMap<>();
         for (int i : nums) freq.put(i, freq.getOrDefault(i,0) + 1);
         for (int i : nums) {
             if (freq.get(i) == 0) continue;

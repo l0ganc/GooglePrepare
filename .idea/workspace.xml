@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/LeetCodeGoogleTagSixMonths/MinCostToHireKWorkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GooglePrepare/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/MinCostToHireKWorkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+            <state relative-caret-position="306">
+              <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -141,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Occur3times/LC337HouseRobberIII.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC340LongestSubstringwithAtMostKDistinctCharacters.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LogStartAndEnd.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC426ConvertBinarySearchTreetoSortedDoublyLinkedList.java" />
@@ -192,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC843GuessTheWord.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC853CarFleet.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java" />
+        <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java" />
       </list>
     </option>
   </component>
@@ -272,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549569163418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549576911946" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -295,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC857MinCostToHireKWorkers">
+  <component name="RunManager" selected="Application.LC659SplitArrayIntoConsecutiveSubsequences">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -316,8 +324,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC684RedundantConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostFrequentlyQuestions.LC684RedundantConnection" />
+    <configuration name="LC659SplitArrayIntoConsecutiveSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MostFrequentlyQuestions.LC659SplitArrayIntoConsecutiveSubsequences" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
@@ -373,7 +381,7 @@
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
+          <option name="PATTERN" value="MostFrequentlyQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +413,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC684RedundantConnection" />
       <item itemvalue="Application.LC685RedundantConnectionII" />
       <item itemvalue="Application.LC855ExamRoom" />
       <item itemvalue="Application.LC853CarFleet" />
       <item itemvalue="Application.LC857MinCostToHireKWorkers" />
+      <item itemvalue="Application.LC659SplitArrayIntoConsecutiveSubsequences" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC659SplitArrayIntoConsecutiveSubsequences" />
         <item itemvalue="Application.LC857MinCostToHireKWorkers" />
         <item itemvalue="Application.LC853CarFleet" />
         <item itemvalue="Application.LC685RedundantConnectionII" />
         <item itemvalue="Application.LC855ExamRoom" />
-        <item itemvalue="Application.LC684RedundantConnection" />
       </list>
     </recent_temporary>
   </component>
@@ -470,12 +478,12 @@
       <workItem from="1548732788323" duration="50150000" />
       <workItem from="1549405406708" duration="9358000" />
       <workItem from="1549487936235" duration="7747000" />
-      <workItem from="1549559022223" duration="3512000" />
+      <workItem from="1549559022223" duration="5954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203049000" />
+    <option name="totallyTimeSpent" value="205491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -1178,43 +1186,43 @@
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
+          <url>file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="143" />
@@ -1547,13 +1555,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Occur3times/LC312BurstBalloons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1950,8 +1951,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+        <state relative-caret-position="306">
+          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
