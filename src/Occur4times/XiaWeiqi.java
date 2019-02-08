@@ -25,11 +25,14 @@ public class XiaWeiqi {
      * 判断一片棋子死活就是判断有没有空格邻居。类似Leetcode "number of islands".
      */
     public static boolean isAlive(int[][] matrix, int i, int j) {
-        if (i < 0 || i >= matrix.length || j < 0 || j > matrix[0].length || matrix[i][j] == 0) {
+        if (i < 0 || i >= matrix.length || j < 0 || j >= matrix[0].length) {
             return false;
         }
-
         val = matrix[i][j];
+        if (val == 0) {
+            return true;
+        }
+
         return findEmptyNeignbour(matrix, i, j);
     }
 
@@ -51,18 +54,26 @@ public class XiaWeiqi {
     }
 
     public static void main(String[] args) {
+//        int[][] matrix = new int[][] {
+//                {1, 1, 1, 1, 1, 1},
+//                {1, -1, 0, 1, 1, 1},
+//                {1, -1, -1, 1, 1, 1},
+//                {1, -1, 0, 1, 1, 1},
+//                {1, 1, 1, 1, 1, 1}
+//        };
+
         int[][] matrix = new int[][] {
                 {1, 1, 1, 1, 1, 1},
-                {1, -1, 0, 1, 1, 1},
+                {1, -1, 1, 1, 1, 1},
                 {1, -1, -1, 1, 1, 1},
-                {1, -1, 0, 1, 1, 1},
+                {1, -1, 1, 1, 1, 1},
                 {1, 1, 1, 1, 1, 1}
         };
-        System.out.println(isAlive(matrix, 1, 1));
-        System.out.println(isAlive(matrix, 2, 1));
-        System.out.println(isAlive(matrix, 2, 2));
-        System.out.println(isAlive(matrix, 3, 1));
+
+        //System.out.println(isAlive(matrix, 1, 1));
+        //System.out.println(isAlive(matrix, 2, 1));
+        //System.out.println(isAlive(matrix, 2, 2));
+        //System.out.println(isAlive(matrix, 3, 1));
         System.out.println(isAlive(matrix, 3, 2));
-        System.out.println(isAlive(matrix, 1, 2));
     }
 }
