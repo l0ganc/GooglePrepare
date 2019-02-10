@@ -87,7 +87,7 @@ public class LC146LRUCache {
             if (capicity == 0) {
                 Node temp = head;
                 head = head.next;
-                map.remove(head.key);
+                map.remove(temp.key);
                 capicity++;
             }
             if (head == null && tail == null) {

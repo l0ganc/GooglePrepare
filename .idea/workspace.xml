@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/LeetCodeGoogleTagSixMonths/KingInherition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/KingInherition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,22 +32,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/HashMapWithExpirationTime.java">
+        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+            <state relative-caret-position="-71">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC497RandomPickwithWeight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="944">
-              <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+            <state relative-caret-position="435">
+              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LongestIncreasingPathinaMatrixLC329.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/RectangleAreaIILC850.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/SwapAdjacentinLRStringLC777.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -75,8 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Occur3times/LC769MaxChunksToMakeSorted.java" />
-        <option value="$PROJECT_DIR$/src/Occur3times/LC768MaxChunksToMakeSortedII.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC505TheMazeII.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC96UniqueBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java" />
@@ -126,6 +173,8 @@
         <option value="$PROJECT_DIR$/src/Occur4times/XiaWeiqi.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/HashMapWithExpirationTime.java" />
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/KingInherition.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java" />
       </list>
     </option>
   </component>
@@ -141,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,14 +256,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549757373868" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549842675359" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -236,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XiaWeiqi">
+  <component name="RunManager" selected="Application.LC807MaxIncreasetoKeepCitySkyline">
     <configuration default="true" type="Application" factoryName="应用程序">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -257,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC130SurroundedRegions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur4times.LC130SurroundedRegions" />
+    <configuration name="CircularArrayLoopLC457" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.CircularArrayLoopLC457" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Occur4times.*" />
+          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC659SplitArrayIntoConsecutiveSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostFrequentlyQuestions.LC659SplitArrayIntoConsecutiveSubsequences" />
+    <configuration name="FindAndReplaceInStringLC833" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.FindAndReplaceInStringLC833" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MostFrequentlyQuestions.*" />
+          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +332,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC750NumberOfCornerRectangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostFrequentlyQuestions.LC750NumberOfCornerRectangles" />
+    <configuration name="LC807MaxIncreasetoKeepCitySkyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.LC807MaxIncreasetoKeepCitySkyline" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MostFrequentlyQuestions.*" />
+          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +345,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC857MinCostToHireKWorkers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.LC857MinCostToHireKWorkers" />
+    <configuration name="LongestIncreasingPathinaMatrixLC329" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.LongestIncreasingPathinaMatrixLC329" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MostFrequentlyQuestions.*" />
+          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XiaWeiqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Occur4times.XiaWeiqi" />
+    <configuration name="RectangleAreaIILC850" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeGoogleTagSixMonths.RectangleAreaIILC850" />
       <module name="GooglePrepare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Occur4times.*" />
+          <option name="PATTERN" value="LeetCodeGoogleTagSixMonths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,19 +395,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC857MinCostToHireKWorkers" />
-      <item itemvalue="Application.LC659SplitArrayIntoConsecutiveSubsequences" />
-      <item itemvalue="Application.LC750NumberOfCornerRectangles" />
-      <item itemvalue="Application.XiaWeiqi" />
-      <item itemvalue="Application.LC130SurroundedRegions" />
+      <item itemvalue="Application.CircularArrayLoopLC457" />
+      <item itemvalue="Application.FindAndReplaceInStringLC833" />
+      <item itemvalue="Application.LongestIncreasingPathinaMatrixLC329" />
+      <item itemvalue="Application.RectangleAreaIILC850" />
+      <item itemvalue="Application.LC807MaxIncreasetoKeepCitySkyline" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XiaWeiqi" />
-        <item itemvalue="Application.LC130SurroundedRegions" />
-        <item itemvalue="Application.LC750NumberOfCornerRectangles" />
-        <item itemvalue="Application.LC659SplitArrayIntoConsecutiveSubsequences" />
-        <item itemvalue="Application.LC857MinCostToHireKWorkers" />
+        <item itemvalue="Application.LC807MaxIncreasetoKeepCitySkyline" />
+        <item itemvalue="Application.RectangleAreaIILC850" />
+        <item itemvalue="Application.LongestIncreasingPathinaMatrixLC329" />
+        <item itemvalue="Application.FindAndReplaceInStringLC833" />
+        <item itemvalue="Application.CircularArrayLoopLC457" />
       </list>
     </recent_temporary>
   </component>
@@ -414,18 +463,19 @@
       <workItem from="1549559022223" duration="13195000" />
       <workItem from="1549648874233" duration="2493000" />
       <workItem from="1549747097193" duration="411000" />
-      <workItem from="1549748389987" duration="2320000" />
+      <workItem from="1549748389987" duration="3229000" />
+      <workItem from="1549776678161" duration="2979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217956000" />
+    <option name="totallyTimeSpent" value="221844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22588523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22832723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -435,12 +485,12 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" weight="0.20204082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23571429" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" visible="true" weight="0.20204082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32040817" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" visible="true" weight="0.23571429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50183153" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1473,98 +1523,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/FindWordInLyric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-          <folding>
-            <element signature="e#1121#1129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC287FindDuplicateNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="47" column="79" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC684findRedundantConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/GuessWordBianzhong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC562LongestLineofConsecutiveOneinMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/WordCardMatch.java" />
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/VocabSuperstring.java" />
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC947MostStonesRemovedwithSameRoworColumn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC559MaximumDepthofNaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/OddEvenArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/ThreeIntegerValidDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC900RLEIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC940IIDistinctSubsequences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/Nrhyme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="553">
@@ -1776,13 +1734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC659SplitArrayIntoConsecutiveSubsequences.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1858,18 +1809,124 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/HashMapWithExpirationTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+        <state relative-caret-position="342">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/LC287FindDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/BullsAndCows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/CircularArrayLoopLC457.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindAndReplaceInStringLC833.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FindDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/FruitIntoBaskets904.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="944">
-          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        <state relative-caret-position="404">
+          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/KingInherition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MostFrequentlyQuestions/KingInherition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC497RandomPickwithWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC857MinCostToHireKWorkers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LongestIncreasingPathinaMatrixLC329.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/RectangleAreaIILC850.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/SwapAdjacentinLRStringLC777.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
         </state>
       </provider>
     </entry>
