@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2ea24-36a0-4d1e-b527-23befa708801" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/NaryLongestConestivePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GooglePrepare/LeetCodeGoogleTagSixMonths/KingInherition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/KingInherition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+            <state relative-caret-position="542">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/NaryLongestConestivePath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -124,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Occur3times/LC505TheMazeII.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC96UniqueBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC939MinimumAreaRectangle.java" />
         <option value="$PROJECT_DIR$/src/Occur3times/LC963MinimumAreaRectangleII.java" />
@@ -175,12 +180,15 @@
         <option value="$PROJECT_DIR$/src/MostFrequentlyQuestions/LC146LRUCache.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/KingInherition.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/NaryLongestConestivePath.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="594" />
+    <option name="y" value="62" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="963" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -262,7 +270,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549842675359" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549848492753" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -464,18 +472,18 @@
       <workItem from="1549648874233" duration="2493000" />
       <workItem from="1549747097193" duration="411000" />
       <workItem from="1549748389987" duration="3229000" />
-      <workItem from="1549776678161" duration="2979000" />
+      <workItem from="1549776678161" duration="3792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221844000" />
+    <option name="totallyTimeSpent" value="222657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22832723" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22832723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,12 +493,12 @@
       <window_info id="Learn" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" visible="true" weight="0.20204082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32040817" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498779" weight="0.20204082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.52040815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" weight="0.23571429" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4981685" visible="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50183153" side_tool="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.498779" weight="0.327551" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -1519,20 +1527,22 @@
           <properties />
           <option name="timeStamp" value="216" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/Nrhyme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RecentlyQuestions/IsomorphicStringsBianzhong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1925,8 +1935,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/LC807MaxIncreasetoKeepCitySkyline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        <state relative-caret-position="542">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeGoogleTagSixMonths/NaryLongestConestivePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
