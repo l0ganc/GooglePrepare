@@ -39,6 +39,7 @@ public class PickCardGame {
     public static void main(String[] args) {
         int[] nums = new int[]{100, 1, -1, 2, 200, 1};
         System.out.println(maxValue(nums));
+        System.out.println(maxValue2(nums));
     }
 
 
@@ -67,6 +68,26 @@ public class PickCardGame {
         }
 
         return dp[0][n];
+    }
+
+    private static int maxValue2(int[] cards) {
+        int n = cards.length;
+        int[] dp = new int[n + 1];
+        int sum = 0;
+
+        for (int i = 1; i <= n; i++) {
+            sum += cards[n - i];
+
+            int min = Integer.MAX_VALUE;
+            if (i >= 3) min = Math.min(min, dp[i - 3]);
+            if (i >= 2) min = Math.min(min, dp[i - 2]);
+            if (i >= 1) min = Math.min(min, dp[i - 1]);
+
+            dp[i] = sum - min;
+        }
+
+        return dp[n];
+
     }
 
 }
